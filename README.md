@@ -21,7 +21,7 @@ Your layout may vary; a typical structure:
 
 ```
  database.sql
-grant_inventory_permission.sql
+
 README.md
 ```
 
